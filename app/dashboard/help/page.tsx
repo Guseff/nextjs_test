@@ -1,7 +1,5 @@
 import { inter } from '@/app/ui/fonts';
 
-import css from './help.module.css';
-
 export default function Page() {
   return (
   <>
